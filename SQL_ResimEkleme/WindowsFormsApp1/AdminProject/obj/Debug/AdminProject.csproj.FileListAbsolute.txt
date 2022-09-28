@@ -1,0 +1,11 @@
+C:\Users\HP\OneDrive\Belgeler\C# SQL\SQL_ResimEkleme\WindowsFormsApp1\AdminProject\bin\Debug\AdminProject.exe.config
+C:\Users\HP\OneDrive\Belgeler\C# SQL\SQL_ResimEkleme\WindowsFormsApp1\AdminProject\bin\Debug\AdminProject.exe
+C:\Users\HP\OneDrive\Belgeler\C# SQL\SQL_ResimEkleme\WindowsFormsApp1\AdminProject\bin\Debug\AdminProject.pdb
+C:\Users\HP\OneDrive\Belgeler\C# SQL\SQL_ResimEkleme\WindowsFormsApp1\AdminProject\obj\Debug\AdminProject.Form1.resources
+C:\Users\HP\OneDrive\Belgeler\C# SQL\SQL_ResimEkleme\WindowsFormsApp1\AdminProject\obj\Debug\AdminProject.Properties.Resources.resources
+C:\Users\HP\OneDrive\Belgeler\C# SQL\SQL_ResimEkleme\WindowsFormsApp1\AdminProject\obj\Debug\AdminProject.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Belgeler\C# SQL\SQL_ResimEkleme\WindowsFormsApp1\AdminProject\obj\Debug\AdminProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Belgeler\C# SQL\SQL_ResimEkleme\WindowsFormsApp1\AdminProject\obj\Debug\AdminProject.exe
+C:\Users\HP\OneDrive\Belgeler\C# SQL\SQL_ResimEkleme\WindowsFormsApp1\AdminProject\obj\Debug\AdminProject.pdb
+C:\Users\HP\OneDrive\Belgeler\C# SQL\SQL_ResimEkleme\WindowsFormsApp1\AdminProject\obj\Debug\AdminProject.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Belgeler\C# SQL\SQL_ResimEkleme\WindowsFormsApp1\AdminProject\obj\Debug\AdminProject.Form2.resources
